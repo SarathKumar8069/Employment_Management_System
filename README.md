@@ -1,23 +1,28 @@
-# Employment Management System
+Employment Management System
 
-This is a simple **frontend-only** Employment Management System built using **React.js**.
+A lightweight frontend-only Employment Management System built using React.js as part of a learning project at Shreyains Coding School.
+Created with guidance from Sarthak Sharma.
 
- Developed as part of a learning project at **Shreyains Coding School**  
- With guidance and help from **Sarthak Sharma**
+Features
 
- Features
+Clean React-based UI for managing employee records
 
-- React-based UI for managing employee data
-- Components for adding, listing, and deleting employees
-- State management using React hooks
-- Responsive design
+Add, list, and delete employees
+
+State management with React Hooks
+
+Simple and responsive layout
+
+Beginner-friendly code structure
 
 Tech Stack
 
-- React.js
-- HTML5, CSS3
-- JavaScript (ES6+)
+React.js
+
+JavaScript (ES6+)
+
+HTML5, CSS3
 
 Acknowledgements
 
-Special thanks to **Sarthak Sharma** for his mentorship and guidance throughout this project.
+Grateful to Sarthak Sharma for continuous support and mentorship during the development of this project.
